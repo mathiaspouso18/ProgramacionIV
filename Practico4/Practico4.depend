@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1353751060 source:c:\users\java\desktop\practico4\main.cpp
+	<iostream>
+
+1570580421 source:c:\users\java\desktop\practico4\fecha.cpp
+	"Fecha.h"
+
+1570580060 c:\users\java\desktop\practico4\fecha.h
+
